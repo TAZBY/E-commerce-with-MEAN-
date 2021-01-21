@@ -1,0 +1,7 @@
+[
+    {"nom":"iphone 12", "type":"electronique", "prix":950, "marque":"apple","image":"iphone12.jpg"},
+    {"nom":"samsung s20", "type":"electronique", "prix":530, "marque":"samsung","image":"samsungs20.jpg"},
+    {"nom":"Air force 1", "type":"sport", "prix":150, "marque":"Nike","image":"airforce1.jpg"},
+    {"nom":"Jordan 1", "type":"mode", "prix":100, "marque":"jordan","image":"jordan1.jpg"},
+    {"nom":"Audi a5", "type":"automobile", "prix":45000, "marque":"audi","image":"audia5.jpg"}
+]
